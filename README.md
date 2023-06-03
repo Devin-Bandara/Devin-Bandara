@@ -1,11 +1,20 @@
-### 
-![giphy](https://github.com/Devin-Bandara/Devin-Bandara/assets/122140695/6292445e-3542-4c21-8fdb-3a196d3932c7)
--Hi there 👋 I'm Devin Bandara
-- 🌱 I’m currently learning in University of Moratuwa Sri Lanka
-- 🌱 I’m currently learning Flutter and Nodejs
+# Hi there 👋 I'm Devin Bandara
+
+![giphy](https://github.com/Devin-Bandara/Devin-Bandara/assets/122140695/7324123d-8bab-4275-b22c-5c6f89c6670a)
+
+
+- 🌱 I’m currently learning at the University of Moratuwa, Sri Lanka.
+- 🌱 I’m currently learning Flutter and Node.js.
 - 📫 How to reach me: devinmmcs@gmail.com
-- ⚡ Fun fact: I love cooking
-- 💬 Ask me about Anything
+- ⚡ Fun fact: I love cooking.
+- 💬 Ask me about anything!
+
+## Technologies and Tools
+
+- Flutter
+- Node.js
+- HTML/CSS
+- JavaScript
 
 <!--
 **Devin-Bandara/Devin-Bandara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
