@@ -16,6 +16,7 @@
 - HTML/CSS
 - JavaScript
 - Java
+- C
 <!--
 **Devin-Bandara/Devin-Bandara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
