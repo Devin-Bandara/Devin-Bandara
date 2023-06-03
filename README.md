@@ -1,5 +1,4 @@
 ### 
-<img scr="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47exjg2vw0q2tp9cqqgr1u3b9thwxnh8uz0iu2301r&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="256"/>
 Hi there 👋 I'm Devin Bandara
 - 🌱 I’m currently learning in University of Moratuwa Sri Lanka
 - 🌱 I’m currently learning Flutter and Nodejs
