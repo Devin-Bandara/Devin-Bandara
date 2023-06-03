@@ -1,6 +1,6 @@
 ### 
 ![giphy](https://github.com/Devin-Bandara/Devin-Bandara/assets/122140695/6292445e-3542-4c21-8fdb-3a196d3932c7)
-Hi there 👋 I'm Devin Bandara
+-Hi there 👋 I'm Devin Bandara
 - 🌱 I’m currently learning in University of Moratuwa Sri Lanka
 - 🌱 I’m currently learning Flutter and Nodejs
 - 📫 How to reach me: devinmmcs@gmail.com
