@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning in University of Moratuwa Sri Lanka
+- 🌱 I’m currently learning Flutter and Nodejs
+- 📫 How to reach me: devinmmcs@gmail.com
+- ⚡ Fun fact: I love cooking
+- 💬 Ask me about Anything
 <!--
 **Devin-Bandara/Devin-Bandara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
