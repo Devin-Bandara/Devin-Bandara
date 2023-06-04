@@ -10,15 +10,15 @@
 - 💬 Ask me about anything!
 
 ## Technologies and Tools
-- ![Flutter](https://img.icons8.com/color/48/000000/flutter.png) Flutter
-- ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js
-- ![HTML/CSS](https://img.icons8.com/color/48/000000/html-5.png) HTML/CSS
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
-- ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java
-- ![Microsoft SQL](https://img.icons8.com/color/48/000000/microsoft-sql-server.png) Microsoft SQL
-- ![MySQL](https://img.icons8.com/color/48/000000/mysql.png) MySQL
-- ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB
-- ![C](https://img.icons8.com/color/48/000000/c-programming.png) C
+- ![Flutter](https://img.icons8.com/color/48/000000/flutter.png) 
+- ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) 
+- ![HTML/CSS](https://img.icons8.com/color/48/000000/html-5.png) 
+- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) 
+- ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) 
+- ![Microsoft SQL](https://img.icons8.com/color/48/000000/microsoft-sql-server.png) 
+- ![MySQL](https://img.icons8.com/color/48/000000/mysql.png) 
+- ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) 
+- ![C](https://img.icons8.com/color/48/000000/c-programming.png) 
 
 <!--
 **Devin-Bandara/Devin-Bandara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
