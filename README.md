@@ -10,13 +10,16 @@
 - 💬 Ask me about anything!
 
 ## Technologies and Tools
+- ![Flutter](https://fontawesome.com/icons/flutter?style=brands)
+- ![Node.js](https://fontawesome.com/icons/node-js?style=brands)
+- ![HTML/CSS](https://fontawesome.com/icons/html5?style=brands)
+- ![JavaScript](https://fontawesome.com/icons/javascript?style=brands)
+- ![Java](https://fontawesome.com/icons/java?style=brands)
+- ![Microsoft SQL](https://fontawesome.com/icons/microsoft?style=brands)
+- ![MySQL](https://fontawesome.com/icons/database?style=regular)
+- ![MongoDB](https://fontawesome.com/icons/database?style=solid)
+- ![C](https://fontawesome.com/icons/c?style=brands)
 
-- Flutter
-- Node.js
-- HTML/CSS
-- JavaScript
-- Java
-- C
 <!--
 **Devin-Bandara/Devin-Bandara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
