@@ -10,16 +10,16 @@
 - 💬 Ask me about anything!
 
 ## Technologies and Tools
-Technologies and Tools
-- <img src="images/flutter.png" alt="Flutter" width="30" height="30"> Flutter
-- <img src="images/nodejs.png" alt="Node.js" width="30" height="30"> Node.js
-- <img src="images/html5.png" alt="HTML/CSS" width="30" height="30"> HTML/CSS
-- <img src="images/javascript.png" alt="JavaScript" width="30" height="30"> JavaScript
-- <img src="images/java.png" alt="Java" width="30" height="30"> Java
-- <img src="images/mssql.png" alt="Microsoft SQL" width="30" height="30"> Microsoft SQL
-- <img src="images/mysql.png" alt="MySQL" width="30" height="30"> MySQL
-- <img src="images/mongodb.png" alt="MongoDB" width="30" height="30"> MongoDB
-- <img src="images/c.png" alt="C" width="30" height="30"> C
+- ![Flutter](https://img.icons8.com/color/48/000000/flutter.png) Flutter
+- ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js
+- ![HTML/CSS](https://img.icons8.com/color/48/000000/html-5.png) HTML/CSS
+- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
+- ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java
+- ![Microsoft SQL](https://img.icons8.com/color/48/000000/microsoft-sql-server.png) Microsoft SQL
+- ![MySQL](https://img.icons8.com/color/48/000000/mysql.png) MySQL
+- ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB
+- ![C](https://img.icons8.com/color/48/000000/c-programming.png) C
+
 <!--
 **Devin-Bandara/Devin-Bandara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
