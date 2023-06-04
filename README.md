@@ -22,6 +22,67 @@
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="60" height="60">
 </div>
 
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Profile</title>
+    <style>
+      .github-status {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        font-family: Arial, sans-serif;
+      }
+
+      .github-status .emoji {
+        font-size: 50px;
+      }
+
+      .github-status .message {
+        margin-top: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="github-status">
+      <h2>📊 GitHub Status:</h2>
+      <div class="emoji"></div>
+      <div class="message"></div>
+    </div>
+
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script>
+      const username = 'Devin-Bandara';
+
+      axios
+        .get(`https://api.github.com/users/${username}/status`)
+        .then((response) => {
+          const { data } = response;
+          console.log('GitHub Status:', data);
+
+          const emojiElement = document.querySelector('.emoji');
+          const messageElement = document.querySelector('.message');
+
+          if (data && data.status) {
+            const { emoji, message } = data.status;
+            emojiElement.textContent = emoji;
+            messageElement.textContent = message;
+          } else {
+            emojiElement.textContent = '❌';
+            messageElement.textContent = 'GitHub status not found.';
+          }
+        })
+        .catch((error) => {
+          console.error('Failed to fetch GitHub status:', error);
+
+          const emojiElement = document.querySelector('.emoji');
+          const messageElement = document.querySelector('.message');
+          emojiElement.textContent = '❌';
+          messageElement.textContent = 'Failed to fetch GitHub status.';
+        });
+    </script>
+  </body>
+</html>
 
 
 
