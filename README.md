@@ -10,18 +10,16 @@
 - 💬 Ask me about anything!
 
 ## Technologies and Tools
-- <i class="devicon-flutter-plain"></i> Flutter
-- <i class="devicon-nodejs-plain"></i> Node.js
-- <i class="devicon-html5-plain"></i> HTML/CSS
-- <i class="devicon-javascript-plain"></i> JavaScript
-- <i class="devicon-java-plain"></i> Java
-- <i class="devicon-microsoftsqlserver-plain"></i> Microsoft SQL
-- <i class="devicon-mysql-plain"></i> MySQL
-- <i class="devicon-mongodb-plain"></i> MongoDB
-- <i class="devicon-c-plain"></i> C
-
-
-
+Technologies and Tools
+- <img src="images/flutter.png" alt="Flutter" width="30" height="30"> Flutter
+- <img src="images/nodejs.png" alt="Node.js" width="30" height="30"> Node.js
+- <img src="images/html5.png" alt="HTML/CSS" width="30" height="30"> HTML/CSS
+- <img src="images/javascript.png" alt="JavaScript" width="30" height="30"> JavaScript
+- <img src="images/java.png" alt="Java" width="30" height="30"> Java
+- <img src="images/mssql.png" alt="Microsoft SQL" width="30" height="30"> Microsoft SQL
+- <img src="images/mysql.png" alt="MySQL" width="30" height="30"> MySQL
+- <img src="images/mongodb.png" alt="MongoDB" width="30" height="30"> MongoDB
+- <img src="images/c.png" alt="C" width="30" height="30"> C
 <!--
 **Devin-Bandara/Devin-Bandara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
