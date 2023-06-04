@@ -27,27 +27,25 @@
   <head>
     <title>My Profile</title>
     <style>
-      .github-status {
+      .github-stats {
         display: flex;
         flex-direction: column;
         align-items: center;
         font-family: Arial, sans-serif;
       }
 
-      .github-status .emoji {
-        font-size: 50px;
-      }
-
-      .github-status .message {
-        margin-top: 10px;
+      .github-stats img {
+        width: 500px;
       }
     </style>
   </head>
   <body>
-    <div class="github-status">
-      <h2>📊 GitHub Status:</h2>
-      <div class="emoji"></div>
-      <div class="message"></div>
+    <div class="github-stats">
+      <h2>📊 GitHub Stats:</h2>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=Devin-Bandara&show_icons=true&theme=dark"
+        alt="GitHub Stats"
+      />
     </div>
 
     <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
@@ -59,30 +57,14 @@
         .then((response) => {
           const { data } = response;
           console.log('GitHub Status:', data);
-
-          const emojiElement = document.querySelector('.emoji');
-          const messageElement = document.querySelector('.message');
-
-          if (data && data.status) {
-            const { emoji, message } = data.status;
-            emojiElement.textContent = emoji;
-            messageElement.textContent = message;
-          } else {
-            emojiElement.textContent = '❌';
-            messageElement.textContent = 'GitHub status not found.';
-          }
         })
         .catch((error) => {
           console.error('Failed to fetch GitHub status:', error);
-
-          const emojiElement = document.querySelector('.emoji');
-          const messageElement = document.querySelector('.message');
-          emojiElement.textContent = '❌';
-          messageElement.textContent = 'Failed to fetch GitHub status.';
         });
     </script>
   </body>
 </html>
+
 
 
 
