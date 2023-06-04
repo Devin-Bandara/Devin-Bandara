@@ -10,16 +10,17 @@
 - 💬 Ask me about anything!
 
 ## Technologies and Tools
-- ![Flutter](https://img.icons8.com/color/48/000000/flutter.png) 
-- ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) 
-- ![HTML/CSS](https://img.icons8.com/color/48/000000/html-5.png) 
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) 
-- ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) 
-- ![Microsoft SQL](https://img.icons8.com/color/48/000000/microsoft-sql-server.png) 
-- ![MySQL](https://img.icons8.com/color/48/000000/mysql.png) 
-- ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) 
-- ![C](https://img.icons8.com/color/48/000000/c-programming.png) 
-
+<div style="display: flex; align-items: center;">
+  <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" width="30" height="30">
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="30" height="30">
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML/CSS" width="30" height="30">
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="30" height="30">
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="30" height="30">
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="Microsoft SQL" width="30" height="30">
+  <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" width="30" height="30">
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="30" height="30">
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="30" height="30">
+</div>
 <!--
 **Devin-Bandara/Devin-Bandara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
