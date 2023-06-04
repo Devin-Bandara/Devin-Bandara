@@ -21,9 +21,6 @@
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="60" height="60">
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="60" height="60">
 </div>
-
-![GitHub Status](https://img.shields.io/endpoint?url=https://status.github.com/api/status.json)
-
 <!--
 **Devin-Bandara/Devin-Bandara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
