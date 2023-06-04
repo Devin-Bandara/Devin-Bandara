@@ -10,15 +10,15 @@
 - 💬 Ask me about anything!
 
 ## Technologies and Tools
-- ![Flutter](https://material.io/resources/icons/?icon=flutter&style=baseline)
-- ![Node.js](https://material.io/resources/icons/?icon=fiber_smart_record&style=baseline)
-- ![HTML/CSS](https://material.io/resources/icons/?icon=language&style=baseline)
-- ![JavaScript](https://material.io/resources/icons/?icon=code&style=baseline)
-- ![Java](https://material.io/resources/icons/?icon=code&style=baseline)
-- ![Microsoft SQL](https://material.io/resources/icons/?icon=storage&style=baseline)
-- ![MySQL](https://material.io/resources/icons/?icon=storage&style=baseline)
-- ![MongoDB](https://material.io/resources/icons/?icon=storage&style=baseline)
-- ![C](https://material.io/resources/icons/?icon=code&style=baseline)
+- :iphone: Flutter
+- :computer: Node.js
+- :globe_with_meridians: HTML/CSS
+- :computer: JavaScript
+- :coffee: Java
+- :floppy_disk: Microsoft SQL
+- :floppy_disk: MySQL
+- :floppy_disk: MongoDB
+- :computer: C
 
 
 <!--
