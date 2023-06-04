@@ -23,50 +23,7 @@
 </div>
 
 
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>My Profile</title>
-    <style>
-      .github-stats {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        font-family: Arial, sans-serif;
-      }
 
-      .github-stats img {
-        width: 100px;
-        height: 100px;
-      }
-    </style>
-  </head>
-  <body>
-    <div class="github-stats">
-      <h2>📊 GitHub Stats:</h2>
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark"
-        alt="GitHub Stats"
-      />
-    </div>
-
-    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
-    <script>
-      // Replace 'YOUR_GITHUB_USERNAME' with your actual GitHub username
-      const username = 'YOUR_GITHUB_USERNAME';
-
-      axios
-        .get('https://api.github.com/users/Devin-Bandara')
-        .then((response) => {
-          const { data } = response;
-          console.log('GitHub Stats:', data);
-        })
-        .catch((error) => {
-          console.error('Failed to fetch GitHub stats:', error);
-        });
-    </script>
-  </body>
-</html>
 
 <!--
 **Devin-Bandara/Devin-Bandara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
