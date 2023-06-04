@@ -10,15 +10,16 @@
 - 💬 Ask me about anything!
 
 ## Technologies and Tools
-- ![Flutter](https://fontawesome.com/icons/flutter?style=brands)
-- ![Node.js](https://fontawesome.com/icons/node-js?style=brands)
-- ![HTML/CSS](https://fontawesome.com/icons/html5?style=brands)
-- ![JavaScript](https://fontawesome.com/icons/javascript?style=brands)
-- ![Java](https://fontawesome.com/icons/java?style=brands)
-- ![Microsoft SQL](https://fontawesome.com/icons/microsoft?style=brands)
-- ![MySQL](https://fontawesome.com/icons/database?style=regular)
-- ![MongoDB](https://fontawesome.com/icons/database?style=solid)
-- ![C](https://fontawesome.com/icons/c?style=brands)
+- ![Flutter](https://material.io/resources/icons/?icon=flutter&style=baseline)
+- ![Node.js](https://material.io/resources/icons/?icon=fiber_smart_record&style=baseline)
+- ![HTML/CSS](https://material.io/resources/icons/?icon=language&style=baseline)
+- ![JavaScript](https://material.io/resources/icons/?icon=code&style=baseline)
+- ![Java](https://material.io/resources/icons/?icon=code&style=baseline)
+- ![Microsoft SQL](https://material.io/resources/icons/?icon=storage&style=baseline)
+- ![MySQL](https://material.io/resources/icons/?icon=storage&style=baseline)
+- ![MongoDB](https://material.io/resources/icons/?icon=storage&style=baseline)
+- ![C](https://material.io/resources/icons/?icon=code&style=baseline)
+
 
 <!--
 **Devin-Bandara/Devin-Bandara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
