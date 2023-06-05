@@ -28,6 +28,11 @@
   <img src="https://img.icons8.com/color/48/000000/trello.png" alt="Trello" width="60" height="60">
 </div>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Devin-Bandara&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Devin-Bandara&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Devin-Bandara&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 <!--
 **Devin-Bandara/Devin-Bandara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
