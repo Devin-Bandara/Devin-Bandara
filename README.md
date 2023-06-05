@@ -20,7 +20,14 @@
   <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" width="60" height="60">
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="60" height="60">
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="60" height="60">
+  <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva" width="60" height="60">
+  <img src="https://img.icons8.com/color/48/000000/blender-3d.png" alt="Blender" width="60" height="60">
+  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" width="60" height="60">
+  <img src="https://img.icons8.com/color/48/000000/gimp.png" alt="GIMP" width="60" height="60">
+  <img src="https://img.icons8.com/color/48/000000/postmen.png" alt="Postmen" width="60" height="60">
+  <img src="https://img.icons8.com/color/48/000000/trello.png" alt="Trello" width="60" height="60">
 </div>
+
 
 <!--
 **Devin-Bandara/Devin-Bandara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
