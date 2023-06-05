@@ -24,7 +24,7 @@
   <img src="https://img.icons8.com/color/48/000000/blender-3d.png" alt="Blender" width="60" height="60">
   <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" width="60" height="60">
   <img src="https://img.icons8.com/color/48/000000/gimp.png" alt="GIMP" width="60" height="60">
-  <img src="https://img.icons8.com/color/48/000000/postman-code.png" alt="Postman Code Tester" width="60" height="60">
+  <img src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" alt="Postman Code Tester" width="60" height="60">
   <img src="https://img.icons8.com/color/48/000000/trello.png" alt="Trello" width="60" height="60">
 </div>
 
