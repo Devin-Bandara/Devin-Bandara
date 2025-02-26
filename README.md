@@ -3,7 +3,7 @@
 ![giphy](https://github.com/Devin-Bandara/Devin-Bandara/assets/122140695/7324123d-8bab-4275-b22c-5c6f89c6670a)
 
 
-- 🌱 I am currently reaching for my degree Bachelor of Science Honours in Information Technology at the University of Moratuwa, Sri Lanka.
+- 🌱 I am currently reaching for my degree Bachelor of Science Honours in Information Technology at the University of Moratuwa.
 - 🧠 I'm currently researching AI and cybersecurity, focusing on ML, NLP, Explainable AI, and voice and text analysis.
 - 📫 How to reach me: devinmmcs@gmail.com
 - ⚡ Fun fact: I love cooking.
