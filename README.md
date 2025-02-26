@@ -3,8 +3,8 @@
 ![giphy](https://github.com/Devin-Bandara/Devin-Bandara/assets/122140695/7324123d-8bab-4275-b22c-5c6f89c6670a)
 
 
-- 🌱 I’m currently learning at the University of Moratuwa, Sri Lanka.
-- 🌱 I’m currently learning Flutter and Node.js.
+- 🌱 I am currently reaching for my degree Bachelor of Science Honours in Information Technology at the University of Moratuwa, Sri Lanka.
+- 🌱 I’m currently reasearch about AI & Cybersecurity Researcher | ML & NLP | Explainable AI | Voice & Text Analysis.
 - 📫 How to reach me: devinmmcs@gmail.com
 - ⚡ Fun fact: I love cooking.
 - 💬 Ask me about anything!
