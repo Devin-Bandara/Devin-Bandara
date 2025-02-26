@@ -26,6 +26,11 @@
   <img src="https://img.icons8.com/color/48/000000/gimp.png" alt="GIMP" width="60" height="60">
   <img src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" alt="Postman Code Tester" width="60" height="60">
   <img src="https://img.icons8.com/color/48/000000/trello.png" alt="Trello" width="60" height="60">
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="60" height="60"> 
+  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="60" height="60"> 
+  <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="60" height="60"> 
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="60" height="60">
+  <img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="GitLab CI/CD" width="60" height="60">
 </div>
 
 # 📊 GitHub Stats:
