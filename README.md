@@ -4,7 +4,7 @@
 
 
 - 🌱 I am currently reaching for my degree Bachelor of Science Honours in Information Technology at the University of Moratuwa, Sri Lanka.
-- 🌱 I’m currently reasearch about AI & Cybersecurity Researcher | ML & NLP | Explainable AI | Voice & Text Analysis.
+- 🧠 I'm currently researching AI and cybersecurity, focusing on ML, NLP, Explainable AI, and voice and text analysis.
 - 📫 How to reach me: devinmmcs@gmail.com
 - ⚡ Fun fact: I love cooking.
 - 💬 Ask me about anything!
